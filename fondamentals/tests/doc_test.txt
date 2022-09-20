@@ -1,0 +1,17 @@
+The ``doc_test`` module
+======================
+
+Using ``fact``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``fibonacci`` from the ``fibo`` module:
+
+    >>> from fibo import fibonacci
+
+Now use it:
+
+    >>> fibonacci(18)
+    1899
+
+    

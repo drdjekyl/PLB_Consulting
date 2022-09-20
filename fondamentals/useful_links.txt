@@ -1,0 +1,4 @@
+Voici quelques liens utiles :
+- https://www.kaggle.com/code/fedi1996/house-prices-data-cleaning-viz-and-modeling
+- https://www.kaggle.com/code/chadalee/olympics-data-cleaning-exploration-prediction
+- https://docs.python.org/3/library/winreg.html
