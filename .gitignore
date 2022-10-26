@@ -1,1 +1,7 @@
 docs/*
+*.dat
+*.db
+.ipynb_checkpoints/
+venv/
+env_TP2/
+machinelearning/Data_Science___fondamentaux_et_etudes_de_cas_ed1_v1.pdf
