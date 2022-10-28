@@ -2,3 +2,6 @@ Voici quelques liens utiles :
 - https://www.kaggle.com/code/fedi1996/house-prices-data-cleaning-viz-and-modeling
 - https://www.kaggle.com/code/chadalee/olympics-data-cleaning-exploration-prediction
 - https://docs.python.org/3/library/winreg.html
+- https://zestedesavoir.com/tutoriels/954/notions-de-python-avancees/5-exercises/3-3-accessors-descriptors/
+- https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
+- https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html

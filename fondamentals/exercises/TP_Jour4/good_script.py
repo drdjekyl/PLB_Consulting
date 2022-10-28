@@ -37,10 +37,14 @@ def load_data():
 
 @time_decorator
 def select_tweet(dfs):
+    jan_first = dfs.publish_date.apply(lambda x: x.startswith('1/1/2016'))
+    
+    """
     dfs.publish_date = dfs.publish_date.apply(lambda date: pd.Timestamp(date))
 
     jan_first = dfs[(dfs.publish_date > pd.Timestamp('2016-01-01')) & (
         dfs.publish_date < pd.Timestamp('2016-01-02'))]
+    """
 
     return jan_first
 
